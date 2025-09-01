@@ -11,6 +11,12 @@ function App(){
         <option value="blue">Blue</option>
         <option value="green">Green</option>
         <option value="red">Red</option>
+        <option value="yellow">Yellow</option>
+        <option value="purple">Purple</option>
+        <option value="pink">Pink</option>
+        <option value="orange">Orange</option>
+        <option value="brown">Brown</option>
+        <option value="white">White</option>
       </select>
     </div>
   )
